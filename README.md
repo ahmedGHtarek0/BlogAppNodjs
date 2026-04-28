@@ -1,9 +1,17 @@
 # 🚀 BlogAppNodeJS - Advanced Blogging API
 
+<p align="center">
+  <img src="assets/logo.png" alt="BlogApp Logo" width="300px">
+</p>
+
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 A robust, scalable, and fully typed RESTful API for a modern blog application. Built with **Node.js**, **Express**, **TypeScript**, and **MongoDB**, this project provides a comprehensive backend solution for managing users, posts, comments, and interactions.
